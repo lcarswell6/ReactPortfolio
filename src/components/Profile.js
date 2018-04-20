@@ -55,7 +55,7 @@ class Profile extends Component {
                 <Name>Leon Carswell</Name>
                 <Line>Forward Thinking Full Stack Developer</Line>
                 <Mantra>Promoting Progress Through Service</Mantra>
-                <About>Growing up in rural Georgia, a man is taught to love and serve his community as if they were his own family. We raise our families as if we are one large village and that set of morals has successfully guided me well into my adult life. I'd like to bring that sense of familial love and support to my next employer with intentions of building and maintaining a mutually beneficial relationship for my company, my community and myself in the process.  </About>
+                <About>Growing up in rural Georgia, you are taught at a young age to love and serve your community as if they were your own family. We raise our families as if we are one large village and that set of morals has successfully guided me well into my adult life. I'd like to bring that sense of familial love and support to my next employer with intentions of building and maintaining a mutually beneficial relationship for my company, my community and myself in the process.  </About>
                 
             </ProfTainer>
 
