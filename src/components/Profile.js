@@ -44,7 +44,7 @@ padding: 5px 5px 5px 5px;
 font-family: 'Julius Sans One', sans-serif;
 font-size: 20px;
 color: black;
-text-align: left;
+text-align: center;
 
 `
 
