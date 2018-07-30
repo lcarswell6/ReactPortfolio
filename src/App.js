@@ -10,7 +10,8 @@ import Projects from './components/Projects.js'
 const AppWide = styled.div`
 background: url(https://i.imgur.com/YKzlkyf.jpg);
 background-size:100%;
-height:100vh;
+height: 100vh;
+width: 100vw;
 color: rgba(225, 225, 225, 1);
 
 `
